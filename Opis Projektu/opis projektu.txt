@@ -1,0 +1,13 @@
+Projekt bedzie składać z programu,GUI i bazy danych  podłączonej do niego.
+----
+GUI bedzie składało sie z 6 zakładek
+	Uczen
+	nauczyciel
+	Inni pracownicy
+	Dane-Ucznia
+	Dane-Nauczyciela
+	Dane-Pracownika
+do pierwszych zakładek bedą służyć jako narzędzia do insertowania informacji i zdjęć do bazy danych
+a ostatnie trzy zakładków bedą sczytywać informacje z bazy i je pokazywać i również jednocześnie służyć jako wyszukiwarka która
+będzie generowała i sczytywała raporty  z wyszukiwania na wcześniej zaimplementowany do programu plik tekstowy.Wyszukiwarki bedą miały także opcje sortowania bazy 
+przed i po wyszukaniu zachcianych informacji np: wieku lub alfabetycznie ustawionyh imion.
